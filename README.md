@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yi-An Lin
 - 👀 I’m interested in Data Analytics and Machine Learning
-- 🌱 I’m currently learning Neuron Network Machine Learning
-- 💞️ I’m looking to collaborate on Neuron Network Machine Learning
+- 🌱 I’m currently learning Neural Network Machine Learning
+- 💞️ I’m looking to collaborate on Neural Network Machine Learning
 - 📫 How to reach me yianlin.yian@gmail.com
 
 <!---
